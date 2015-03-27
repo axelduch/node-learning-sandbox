@@ -1,7 +1,7 @@
 {
   "name": "express-example",
   "version": "1.0.0",
-  "description": "Let's make a basic server with express",
+  "description": "Let's make a basic upload form with multer and express",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
