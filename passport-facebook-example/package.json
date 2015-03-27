@@ -1,0 +1,17 @@
+{
+  "name": "passport-facebook-example",
+  "version": "1.0.0",
+  "description": "Let's make a basic facebook connection with passport and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "axelduch",
+  "license": "WTFPL",
+  "devDependencies": {
+    "express": "^4.12.3",
+    "passport": "^0.2.1",
+    "passport-facebook": "^2.0.0"
+  }
+}
