@@ -10,6 +10,7 @@
   "author": "axelduch",
   "license": "WTFPL",
   "devDependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "multer": "^0.1.8"
   }
 }
